@@ -4,7 +4,7 @@ Submitted by: Praise Okoli
 
 This web app: Provides a random Bible verse with a related image, excluding books or chapters that are defined in the "banned" category 
 
-Time spent: 7 hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
@@ -47,7 +47,7 @@ my app uses a randomized function based on a few key words, but some images don'
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Hlb34ce.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with  
